@@ -1,2 +1,2 @@
 # OOP_Aufgaben
-Lösungen von meinem Modul "Objektorientierte Programmierung".
+Meine Lösungen vom Modul "Objektorientierte Programmierung".
